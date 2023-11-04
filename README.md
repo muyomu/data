@@ -1,2 +1,2 @@
-# mysql-connector
-The mysql connector for muyomu web framework
+# muyomu/data
+The data connector for muyomu web framework
